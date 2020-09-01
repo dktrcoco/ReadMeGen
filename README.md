@@ -4,7 +4,7 @@ Description:
 
 A program to automatically generate a readme markdown file after prompting the user for information in node.
 
-Link for Video Walkthrough: https://youtu.be/Adw1Q0DDzfY
+Link for Video Walkthrough: https://youtu.be/7NsdNHFHorQ
 
 Table of Contents
 * [User Story](#story)
