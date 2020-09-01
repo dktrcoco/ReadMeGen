@@ -17,7 +17,7 @@ Table of Contents
 ## Story
 
 AS A Developer
-I WAANT a README generator
+I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
 GIVEN a command-line application that accepts user input
@@ -44,7 +44,7 @@ THEN this is added to the Questions section, with a link to my GitHub profile
 
 WHEN I enter my email address
 
-THEN this is added to the Questions section, with instructionsd on how to reach me with additional questions
+THEN this is added to the Questions section, with instructions on how to reach me with additional questions
 
 WHEN I click on the links in the Table of Contents
 
